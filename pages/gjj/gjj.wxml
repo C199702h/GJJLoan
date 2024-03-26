@@ -1,0 +1,2 @@
+<!--pages/auth/auth.wxml-->
+<web-view src="{{GjjUrl}}"></web-view>
